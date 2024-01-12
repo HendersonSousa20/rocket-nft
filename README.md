@@ -5,7 +5,7 @@ Bem-vindo ao repositório Rocket NFTs! Este projeto é um desafio abrangente do 
 </p>
 
 <p align="center">
-  <img alt="projeto DevLinks" src="./assets/cover(2).png" width="100%">
+  <img alt="projeto DevLinks" src="./assets/Cover (2).png" width="100%">
 </p>
 
 
